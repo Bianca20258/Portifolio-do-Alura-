@@ -101,7 +101,7 @@
 </head>
 <body>
   <header>
-    LARISSA OLIVEIRA
+  BIANCA GOMES
     <div class="tagline">Modelo em formação • Moda, expressão e elegância</div>
   </header>
   <div class="main">
